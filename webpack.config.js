@@ -19,8 +19,7 @@ module.exports = {
             "es2015",
             "react"
           ]
-        },
-        include: __dirname + '/app'
+        }
       },
     ]
   },
